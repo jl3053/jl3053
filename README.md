@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-Most of my work is on GitLab; visit my profile at [gitlab.com/jl3053](https://gitlab.com/jl3053) for more information.
+I only use GitHub to contribute to projects that are hosted here.
+
+Most of my own projects are hosted at [src.jottocraft.com](https://src.jottocraft.com/browser/). I also use GitLab at [gitlab.com/jl3053](https://gitlab.com/jl3053) for forks and smaller repositories that aren't full projects.
 
 <!--
-**jtk3053/jtk3053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jl3053/jl3053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
